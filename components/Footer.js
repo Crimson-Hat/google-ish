@@ -13,6 +13,7 @@ const Footer = () => {
         <a href="#">Privacy</a>
         <a href="#">T&C</a>
         <a href="#">About</a>
+        <a href="https://alvin-wachira.netlify.app/">Designed By: Alvin Wachira</a>
       </span>
     </footer>
   );
